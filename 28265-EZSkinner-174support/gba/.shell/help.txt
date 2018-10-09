@@ -1,17 +1,17 @@
----Custom EZ4 PDA---
-Sorry, no help here... :(
-goto the best place for EZ info
-http://www.sosuke.com/ezflash
+Chip's BlueTheme 1.7
+Firmware 1.74
+Build:20181010
+Based on libertyernie2's Clearlooks
+-------------------------------------
+Hotkeys (for sleep patched ROM only)
 
+[ SLEEP ]
+   L + R + START
+[ WAKEUP ]
+   SELECT + START
+[ RESTART ]
+   L + R + SELECT + START
 
-Thanks for the skin FAST6191!!!
-[English Version]
-   EZ-Flash4 :
-	1. MiniSD based i/o interface , GBA cartridge size.
-	2. GBA/NDS auto boot Loader , no change when using. Updated from MiniSD.
-	3. MoonShell Supported .(mp3,video,pic,etc)
-	4. direct read from nds , no copy to PSRAM.
-  note:
-	1. GBA reset is now [up+L+A+B]
-	2. hold R to go into the updating program
-	3. Fat16 only , and will support long file name soon.
+-------------------------------------
+https://github.com/chiptechno
+
