@@ -1,0 +1,51 @@
+My GBA;My GBA;1
+Starting the file manager;Starting the file manager;1
+Txt Saver;Txt Saver;1
+Continue the last Txt File;Continue the last Txt File;1
+Mines;Mines;1
+mines By Ivan Mackintosh;mines By Ivan Mackintosh;1
+Setting;Setting;1
+Setting time and language;Setting time and language;1
+Help;Help;1
+More help in here;More help in here;1
+Language Setting;Language Setting;1
+EZ-Disk;EZ-Disk;1
+Hold L to skip Saving;Hold L to skip Saving;1
+FAT Filesystem Error;FAT Filesystem Error;1
+No such File;No such File;1
+Unknown type Open or not ?;Unknown type Open or not ?;1
+Waiting for reading;Waiting for reading;1
+File format error;File format error;1
+progressing ;progressing ;1
+Unkonwn operation;Unkonwn operation;1
+Cheat error!continue=A returnB;Cheat error!continue=A returnB;1
+Read saver to current;Read saver to current;1
+Save file;Save file;1
+waiting;waiting;1
+writing;writing;1
+Battery is dry or first in;Battery is dry or first in;1
+sorry,no saver has been saved;sorry,no saver has been saved;1
+A 256MROM be writen to Flash,Y/N;A 256MROM be writen to Flash,Y/N;1
+Delete Y/N;Delete Y/N;1
+NOR Space is not Enough;NOR Space is not Enough;1
+Write NOR Flash Y/N;Write NOR Flash Y/N;1
+Erasing...;Erasing...;1
+Writing...;Writing...;1
+Info;Info;1
+Saver Manner;Saver Manner;1
+Auto Saving;Auto Saving;1
+Obliged Saving;Obliged Saving;1
+[SD]NDSLoader V1.66;[SD]NDSLoader V1.66;1
+第一次进入或者掉电;第一次进入或者掉电;1
+First in or not enough power;First in or not enough power;1
+Special;Special;1
+触摸或任何键取消存档;触摸或任何键取消存档;1
+Touch to cancel save the game ;Touch to cancel save the game ;1
+找不到磁盘系统;找不到磁盘系统;1
+Cant't find disk;Cant't find disk;1
+写入[write];写入[write];1
+0 files , go back ;0 files , go back ;1
+[dISK];[dISK];1
+Info;Info;2
+设置自动存档[Auto Saving];设置自动存档[Auto Saving];1
+设置强制存档[Obliged Saving];设置强制存档[Obliged Saving];1

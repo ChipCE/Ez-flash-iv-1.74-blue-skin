@@ -1,0 +1,39 @@
+EZSkinner v5.5 by cracker
+Finally added GBA preview saving.
+
+v5.0
+Added better GBA previewing. Added text to DS previewing.
+
+v4.2
+Moved the window to the correct position -- was way off! New version of EZ4Skin added.
+
+v4.1
+Added an option to show the 'select bug'. Note that if you save the preview with this on the preview will also show the bug.
+
+v4.0
+The options were put into the menu so the interface is cleaner (not to mention I was running out of room). The option to save the preview picture in the same directory as the zip file was added. The option to copy the ezfla_up.bin that is generated to the destination drive (mini/microSD) was added.
+
+v3.0
+I updated the program to allow the option of showing a gap between the 'screens' in the DS preview and you can select the color as well. I also made it so the program will clear all the pictures when you change the directory or from one zip to another so if the next directory or zip you choose doesn't have a skin in it you will be able to tell.
+
+v2.6
+I set up the frontend for EZ3 GBA skinning. In order to do this I had to slightly alter some things in cory's batch files and create one of my own.
+
+I set the jpeg quality higher for the preview picture and now it outputs into the EZSkinner directory for easy access.
+
+Everything seems to be working great and the only thing really left for me to do is work on a GBA simulation and skin preview picture saving and add support for loading bmps and writing jpegs. I also might work on making a skin preview for skins that aren't zipped and are just sitting in a directory. For now I'm gonna go take a break.
+
+v2.1
+I updated my program to support actual skinning. EZSkinner acts as a frontend for EZ4Skin (a big thanks to cory for letting me include it). 
+
+What my program does is copies all of the known picture files (bmp for gba, jpeg for DS) to their respective folders (/gba/.shell/bmp, /nds), overwriting the existing pictures. Then it executes the skin_txt.bat (renamed from skin&txt.bat for problems with the ampersand) if it finds text.txt included with the skins in the archive. If it doesn't find text.txt it will run Skin_it.bat and leave the text as it is. There should be no problems with the skinning since EZ4Skin is known to work well.
+
+The GBA skinning preview is still only partially working and I don't feel that it is as important as other things since you can test out skins in a GBA emulator -- the DS side of things _was_ since you couldn't test it in an emulator. I should be able to add a little extra code very soon to skin the GBA loader for EZ3. So check back soon!
+
+I also hope to soon include the ability to import bitmaps and export to jpeg to be included in the skin (by request). It wouldn't take long at all just I've been working on the project so much that I need a little break.
+
+Extract the folder in the archive to anywhere you want and place the ezfla_up.bin into it and you're set. ezfla_up.bin is _not_ included in this archive to prevent people from using old versions of the loader to build their skins with. Download it from http://sosuke.com/ezflash/viewtopic.php?t=793 under EZ4Kernel and extract ezfla_up.bin to the same directory as EZSkinner.
+
+v1.1
+Right now you are able to browse through directories and load a preview of skins inside zip files. You can then save a preview in jpeg format. For now that's all that is functional but I plan to add support for GBA skins (as you can probably tell) and a function to inject them into the EZ3 DS and GBA loaders and the EZ4 ezfla_up.bin.
+
