@@ -1,4 +1,5 @@
 My GBA;My GBA;1
+½ø¶È; ;1
 Starting the file manager;Browse    media cardfiles;1
 Txt Saver;Bookmarks;1
 Continue the last Txt File;Open text file from memory;1
@@ -7,26 +8,26 @@ mines By Ivan Mackintosh;Minigame                ;1
 Setting;Setting;1
 Setting time and language;Language &Save mode      ;1
 Help;Help;1
-More help in here;FAQs &    Tips   ;1
+More help in here;Software  Info   ;1
 Language Setting;Language        ;1
 EZ-Disk;SD Card;2
-Hold L to skip Saving;Saving    L:Bypass   ;1
+Hold L to skip Saving;Saving     Bypass   ;1
 FAT Filesystem Error;FAT Filesystem Error;1
 No such File;No such File;1
-Unknown type Open or not ?;Unknown type , continue ? ;1
+Unknown type Open or not ?;Unknown type , continue?  ;1
 Waiting for reading;Please    wait...  ;1
 File format error;File format error;1
-progressing ;Loading:    ;1
+progressing ;Loading     ;1
 Unkonwn operation;Unkonwn operation;1
-Cheat error!continue=A returnB;Cheat error!A:Continue B:Back ;1
+Cheat error!continue=A returnB;Cheat error!  Continue?       ;1
 Read saver to current;Read .sav  to SRAM?  ;1
 Save file;Save file;1
 waiting;waiting;1
 writing;to SD:\;1
 Battery is dry or first in;WARNING! Low SRAM Battery!;1
-sorry,no saver has been saved;Sorry,   Save file not saved!;1
-A 256MROM be writen to Flash,Y/N;Write ROM to NOR ?              ;1
-Delete Y/N;Delete Y/N;1
+sorry,no saver has been saved;Error!   Save file not saved!;1
+A 256MROM be writen to Flash,Y/N;Write ROM to NOR?               ;1
+Delete Y/N;Delete?   ;1
 NOR Space is not Enough;Not enoughfree space   ;1
 Write NOR Flash Y/N;Write to  NOR?     ;1
 Erasing...;Erasing...;1

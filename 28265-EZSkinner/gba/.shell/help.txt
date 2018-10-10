@@ -1,0 +1,15 @@
+Chip's BlueTheme 2.0
+Firmware 1.74
+Build:20181010
+Based on libertyernie2's Clearlooks
+-------------------------------------
+   Hotkeys
+             [ SLEEP ]
+               +  + 
+           [ WAKEUP ]
+               + 
+             [ RESTART ]
+    +  +  + 
+-------------------------------------
+https://github.com/chiptechno
+
