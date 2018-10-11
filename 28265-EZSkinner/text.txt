@@ -1,5 +1,5 @@
 My GBA;My GBA;1
-进度; ;1
+进度;File;1
 Starting the file manager;Browse    media cardfiles;1
 Txt Saver;Bookmarks;1
 Continue the last Txt File;Open text file from memory;1

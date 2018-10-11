@@ -10,6 +10,8 @@ Based on libertyernie2's Clearlooks
                + 
              [ RESTART ]
     +  +  + 
+                 [ BUILT-IN RESTART ]
+                  +  +  + 
 -------------------------------------
 https://github.com/chiptechno
 
